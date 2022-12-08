@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "foodinventorygerman",
+  "private_key_id": "dde442c4338245b5550b3c8e9a54ce2077c0c43b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDNZMSOLk8Mnn0t\n0mn8NJwG8I2JQHD6gzmh62SLzl2NjuxWcUXUzj7s7NUfCJ6ij1FvlRNwc5fmMkU4\nijJcS+clsGhndfPfe6Gv5qz+RPXdDN2EoMy1toH+fVVKI21P0wDMYmypPW7J3Fx/\neCrEsT9ohJHoUc6QaQeyGo2eu/v59wJ5tJYR2B/KcTcw7RXMpBabV8FUszMEsE6x\nOsWdrflrO8U5PoJ+bdKxifWJWGNLzpPv5cnva3YI8Kk1MjQ6eb9/Y2vNasPmVuPp\nN/m1nC3INqkF2UNcEDmDonOtREHeNBxc0iqxPxxeJ5wh47j1C5sDSsGKTAyL8iin\nBZl8v+VhAgMBAAECggEAA/MRGIIDDeuqRCXmP23fjJg2XVJHTRN8gATGI5R6fHNb\nT6cD81cEvL32s/V3EqP0ELo3UnoJv+jT9FKSX1X4tUlsG7kxhE82fIRqBSwPfwp1\nSmYxKYYl5isQzcknaMAjWGRehIgxR8gCyB/oBDo7gIE0F3LwDugGHtwF2lLxDtn/\npgSC2ykctetRPJz85jiLnC/OHZbRHv8sRIogB4n8V5t7bwCAFAy4jvhyYX5MGRRK\nOVV3FUfhhcgPASnTXlHNLbRhQM8lnJkctPutFucCm52OZ5RHHq42ihZzQaS0Sykq\nHvzlS7GyrfkTh2hyjp3PKSxm4m2IsGoBlUXXXQqesQKBgQD3OCettZh/3ycmZ31b\nm4u1B8tNVILGo8JewHWY7uIOQ4dVZTqbcAzkumZCR3Q2Ul5nPuJwus7vLixKq4AB\n1T6g5lqhdocmk/EHAtkSY9cYZA1wVoyobLxyP4sSkp8sTK32W5u4LORh6/OB+ntw\nxs8meoBcn4tLPYHRJ0FQB1BA1QKBgQDUsE/T/awByWZFSv7hEkovdGItwVnCwIJX\nCGB2feB1x+XflHxZhEhZALoJE65N2Pp+WZAAMxMpRkYZTXAbsfv2hD2yfiLea3sr\n5yVmSaof3kHBx0DX7TpsE0IM8Ylt10VziJVWpd/KuUWNPL35eGPULWJVOnZXMgUq\nGd2XU6L4XQKBgDvP6kms1eiaJO61uy6ew35ZFGbxO3KzzCMAjXMi2K56yBNxGmzg\n/z2Xm4YNo6BA7XYtULvVdpuHoE+wjpfi7/Qdx2+pLam3wWjg14QLg87y5g134zAc\nnrtFhHBJ6RjetHgWUeaNdfP7Ej8wSw1ODHBS0xuVvi3GA9KGnNav7krBAoGBAMhG\nfeURKbdE/pihVgB6SIEHBqwvNWa9//4UVUE+pu5BnaQ7HhztA3NLy+JgNfH4L2hq\nzb5iWdiz465PzRFHOAuZ2r8JJ6xpaUKeFgmLtDbuAt2F0vmA2VKLj9bAWrijzTJN\nmtJMv78VVvj4CauwQdC6K641rtnMsDBEyvSEPSHBAoGAa06M/G+ZvQHj2psMuCs8\ncG/mPwxP1ow76kQbAMImCrp+N8T5/M8qouJEGYY1zWdlfcePhPRq4Zxp9lKWULFs\n+ibiUiJN55h1M/06Pq5ul3f/ykUtiMKZvlXla+DHfH/vmqFwaFmwY8VvmtMthWk7\nElehIXaTrSGRdB8aXcXF+jA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-odl3a@foodinventorygerman.iam.gserviceaccount.com",
+  "client_id": "116486986245693623250",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-odl3a%40foodinventorygerman.iam.gserviceaccount.com"
+}
